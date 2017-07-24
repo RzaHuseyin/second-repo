@@ -1,0 +1,9 @@
+c:\users\rza\documents\visual studio 2017\Projects\calculator2\calculator2\bin\Debug\calculator2.exe.config
+c:\users\rza\documents\visual studio 2017\Projects\calculator2\calculator2\bin\Debug\calculator2.exe
+c:\users\rza\documents\visual studio 2017\Projects\calculator2\calculator2\bin\Debug\calculator2.pdb
+c:\users\rza\documents\visual studio 2017\Projects\calculator2\calculator2\obj\Debug\calculator2.Form1.resources
+c:\users\rza\documents\visual studio 2017\Projects\calculator2\calculator2\obj\Debug\calculator2.Properties.Resources.resources
+c:\users\rza\documents\visual studio 2017\Projects\calculator2\calculator2\obj\Debug\calculator2.csproj.GenerateResource.Cache
+c:\users\rza\documents\visual studio 2017\Projects\calculator2\calculator2\obj\Debug\calculator2.exe
+c:\users\rza\documents\visual studio 2017\Projects\calculator2\calculator2\obj\Debug\calculator2.pdb
+c:\users\rza\documents\visual studio 2017\Projects\calculator2\calculator2\obj\Debug\calculator2.csprojResolveAssemblyReference.cache
